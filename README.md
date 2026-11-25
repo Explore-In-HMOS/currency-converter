@@ -2,7 +2,7 @@
 
 # Currency Converter  App
 
-CurrencyConverter is a fully functional wearable watch application including currency convert functionality built for **HarmonyOS NEXT wearable devices**,
+CurrencyConverter is a fully functional wearable watch application including currency convert functionality built for **HarmonyOS wearable devices**,
 developed using **ArkTS**.
 This demo showcases a simple yet effective smartwatch app that allows users to convert currencies instantly with a minimal and intuitive interface. The app consists of two main screens:
 
